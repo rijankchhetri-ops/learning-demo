@@ -1,2 +1,3 @@
 # learning-demo
-author: rijan kc 
+author: rijan kc <br>
+i amlearning github
